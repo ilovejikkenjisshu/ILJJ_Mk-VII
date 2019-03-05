@@ -1187,7 +1187,7 @@ U 1 1 5BD9BC6D
 P 950 4250
 F 0 "R1" H 1020 4296 50  0000 L CNN
 F 1 "R" H 1020 4205 50  0000 L CNN
-F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 880 4250 50  0001 C CNN
+F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 880 4250 50  0001 C CNN
 F 3 "~" H 950 4250 50  0001 C CNN
 	1    950  4250
 	1    0    0    -1  
