@@ -65,9 +65,9 @@ Wire Wire Line
 	1750 3400 1600 3400
 Wire Wire Line
 	1750 3500 1600 3500
-Text Label 950  2800 0    50   ~ 0
-Cin
 Text Label 1750 2800 2    50   ~ 0
+Cin
+Text Label 950  2800 0    50   ~ 0
 Cout
 Text Label 950  3400 0    50   ~ 0
 A1
